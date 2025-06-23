@@ -4,5 +4,4 @@ ipython
 ipywidgets>=8  
 pydub
 mido
-voila          
-python-3.11
+voila       
