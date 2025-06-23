@@ -1,5 +1,7 @@
-numpy
-ipywidgets
+numpy         
+scipy
+ipython        
+ipywidgets>=8  
 pydub
 mido
-IPython.display
+voila          
