@@ -1,0 +1,5 @@
+numpy
+ipywidgets
+pydub
+mido
+IPython.display
